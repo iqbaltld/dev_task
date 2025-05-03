@@ -4,8 +4,10 @@ This project demonstrates how to create a custom card UI in Flutter using the `C
 
 ## 📸 Screenshots
 
-![Screen 1](screen1.png)
-![Screen 2](screen2.png)
+<p float="left">
+  <img src="screen1.png" height="200"/>
+  <img src="screen2.png" height="200"/>
+</p>
 
 ## 🛠️ Features
 
