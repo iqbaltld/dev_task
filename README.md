@@ -74,15 +74,8 @@ class MyCustomClipper extends CustomClipper<Path> {
 }
 ```
 
-For more information on `CustomClipper`, refer to the official Flutter documentation: [CustomClipper](https://api.flutter.dev/flutter/rendering/CustomClipper-class.html)
-
-## 📱 APK Download
-
-You can download the APK file for this project from the repository: [dev_task.apk](dev_task.apk)
 
 ## 📧 Contact
-
-For any inquiries or feedback, feel free to reach out:
 
 - **Name**: Muhammed Iqbal
 - **LinkedIn**: [linkedin.com/in/iqbaltld](https://linkedin.com/in/iqbaltld)
